@@ -8,5 +8,5 @@ Simple command line python script to check if 2 folders/files are the same
 or
 
 ```bash
-  python check-same.py f <folder1> <folder2>
+  python check-same.py f <file1> <file2>
 ```
